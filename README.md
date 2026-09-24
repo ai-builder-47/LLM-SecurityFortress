@@ -178,14 +178,3 @@ python -m LLM_SecurityFortress.benchmark --scenario mobile
 ## License
 
 MIT License - See LICENSE file for details.
-
-## Contributing
-
-Contributions welcome! Please read our contributing guidelines before submitting PRs.
-
-## Acknowledgments
-
-Built with inspiration from:
-- OpenAI's safety research
-- IBM Adversarial Robustness Toolbox
-- Various open-source security projects
