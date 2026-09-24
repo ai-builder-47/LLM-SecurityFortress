@@ -179,13 +179,3 @@ python -m LLM_SecurityFortress.benchmark --scenario mobile
 
 MIT许可证 - 详见LICENSE文件。
 
-## 贡献
-
-欢迎贡献！请在提交PR前阅读贡献指南。
-
-## 致谢
-
-项目灵感来自：
-- OpenAI安全研究
-- IBM对抗鲁棒性工具箱
-- 各开源安全项目
